@@ -11,7 +11,4 @@ Each folder in the root directory contains a `script.js` file, which     contain
 Report bugs [here](https://github.com/tientq64/userscripts/issues).
 
 ## License
-
-
-
 The code is licensed under the [MIT](./LICENSE) license.
